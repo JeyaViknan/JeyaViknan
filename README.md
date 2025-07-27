@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JeyaViknan
-- 👀 Passionate about backend web development with a growing interest in machine learning
-- 🌱 Currently pursuing a research internship at NIT Trichy, focusing on Large Language Models and their applications
-- 📫 Reach me at jeyaviknan11@gmail.com
+- If anyone interested in working on Augmented Reality (Swift ios native), hmu. Would be a great learning experience.
+- 👀 Passionate about backend web dev and ml
+- 🌱 NIT ex-intern
+- 📫 Reach me at jeyaviknan11@gmail.com (jeyaviknan on ig)
