@@ -1,4 +1,3 @@
-- jeyaviknan.netlify.app
 - 👋 Hi, I’m @JeyaViknan
 - If anyone interested in working on Augmented Reality (Swift ios native), hmu. Would be a great learning experience.
 - 👀 Passionate about backend web dev and ml
