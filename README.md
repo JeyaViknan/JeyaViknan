@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%7C+Innovator;From+India+%F0%9F%87%AE%F0%9F%87%B3;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%7C+Innovator;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 ```typescript
 const jeyaViknan = {
     name: "Jeya Viknan",
-    location: "India 🇮🇳",
+    location: "Chennai, India 🇮🇳",
     role: "Full Stack Developer",
     education: "B.Tech CSE @ VIT Chennai",
     specialization: ["AI/ML", "Web Development", "Cloud Computing"],
