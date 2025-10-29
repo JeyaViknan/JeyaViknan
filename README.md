@@ -17,7 +17,7 @@ const jeyaViknan = {
     name: "Jeya Viknan",
     location: "India 🇮🇳",
     role: "Full Stack Developer",
-    education: "B.Tech CSE @ SRM Institute",
+    education: "B.Tech CSE @ VIT Chennai",
     specialization: ["AI/ML", "Web Development", "Cloud Computing"],
     currentlyLearning: ["Advanced AI Models", "System Design"],
     technologies: {
@@ -171,7 +171,7 @@ while (learning) {
 🌱 **Learning:** Advanced Deep Learning, System Design, Microservices  
 💬 **Ask me about:** Python, AI/ML, Full Stack Development, Cloud  
 ⚡ **Fun fact:** I can debug code faster than I can debug my life decisions 😄  
-🎓 **Education:** B.Tech in Computer Science Engineering @ SRM Institute  
+🎓 **Education:** B.Tech in Computer Science Engineering @ VIT Chennai  
 
 </div>
 
@@ -256,7 +256,7 @@ If you find my projects helpful, consider giving them a ⭐!
 <div align="center">
 
 ### 🎓 Education
-**SRM Institute of Science and Technology**  
+**Vellore Institute of Technology, Chennai**  
 Bachelor of Technology in Computer Science Engineering  
 Specialization: Artificial Intelligence & Machine Learning
 
