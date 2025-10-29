@@ -15,11 +15,10 @@
 ```typescript
 const jeyaViknan = {
     name: "Jeya Viknan",
-    location: "Chennai, India 🇮🇳",
+    location: "Chennai",
     role: "Full Stack Developer",
     education: "B.Tech CSE @ VIT Chennai",
     specialization: ["AI/ML", "Web Development", "Cloud Computing"],
-    currentlyLearning: ["Advanced AI Models", "System Design"],
     technologies: {
         languages: ["Python", "JavaScript", "TypeScript", "C++", "SQL"],
         frontend: ["React", "Next.js", "TailwindCSS", "HTML/CSS"],
@@ -29,7 +28,6 @@ const jeyaViknan = {
         tools: ["Git", "Docker", "VS Code", "Postman"]
     },
     interests: ["Machine Learning", "Web3", "Open Source"],
-    funFact: "I turn ideas into code and coffee into features ☕ → 💻"
 };
 ```
 
