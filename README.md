@@ -160,48 +160,9 @@ while (learning) {
 }
 ```
 
-<div align="center">
-
-🔭 **Working on:** AI-powered Web Applications & Machine Learning Projects  
-🌱 **Learning:** Advanced Deep Learning, System Design, Microservices  
-💬 **Ask me about:** Python, AI/ML, Full Stack Development, Cloud  
-⚡ **Fun fact:** I can debug code faster than I can debug my life decisions 😄  
-🎓 **Education:** B.Tech in Computer Science Engineering @ VIT Chennai  
-
-</div>
 
 ---
 
-## 💼 Experience & Skills
-
-<div align="center">
-
-### 🎯 Core Competencies
-
-```mermaid
-mindmap
-  root((Jeya Viknan))
-    Full Stack Development
-      Frontend
-      Backend
-      APIs
-    Artificial Intelligence
-      Machine Learning
-      Deep Learning
-      Computer Vision
-    Cloud & DevOps
-      AWS
-      GCP
-      Azure
-    Problem Solving
-      Data Structures
-      Algorithms
-      Optimization
-```
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -223,9 +184,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/JeyaViknan/JeyaViknan/output/github-contribution-grid-snake-dark.svg)
 
@@ -233,19 +191,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ---
 
-<div align="center">
-
-### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=JeyaViknan&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
-
-### ⭐ Support My Work
-If you find my projects helpful, consider giving them a ⭐!
-
-**Let's innovate and build the future together!** 🚀
-
-</div>
-
----
 
 <div align="center">
 
