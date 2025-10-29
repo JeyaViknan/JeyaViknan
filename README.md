@@ -39,7 +39,7 @@ const jeyaViknan = {
 
 | 💼 LinkedIn | 📧 Email | 🌐 Portfolio | 💻 GitHub |
 |:---:|:---:|:---:|:---:|
-| [Connect](https://www.linkedin.com/in/jeya-viknan/) | [Email Me](mailto:jeyaviknan@example.com) | [Visit Site](https://jeyaviknan.dev) | [@JeyaViknan](https://github.com/JeyaViknan) |
+| [Connect](https://www.linkedin.com/in/jeya-viknan/) | [Email Me](mailto:jeyaviknan11@gmail.com) | [Visit]([https://jeyaviknan.dev](https://drive.google.com/file/d/14tSpSgNa43JhrUthbzVSGMaXcBkxPAct/view?usp=drive_link)) | [@JeyaViknan](https://github.com/JeyaViknan) |
 
 </div>
 
@@ -209,10 +209,9 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeya-viknan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeyaViknan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeyaviknan.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeyaviknan@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/JeyaViknan)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/JeyaViknan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://jeyaviknan.dev](https://drive.google.com/file/d/14tSpSgNa43JhrUthbzVSGMaXcBkxPAct/view?usp=drive_link))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeyaviknan11@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JeyaViknan/)
 
 ### 📫 Let's Collaborate!
 
@@ -253,7 +252,7 @@ If you find my projects helpful, consider giving them a ⭐!
 ### 🎓 Education
 **Vellore Institute of Technology, Chennai**  
 Bachelor of Technology in Computer Science Engineering  
-Specialization: Artificial Intelligence & Machine Learning
+Specialization: Computer Science
 
 </div>
 
