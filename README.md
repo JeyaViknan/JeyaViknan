@@ -130,18 +130,7 @@ const jeyaViknan = {
 
 ---
 
-## 🎨 Featured Projects
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeyaViknan&repo=AI-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)](https://github.com/JeyaViknan/AI-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeyaViknan&repo=WebApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)](https://github.com/JeyaViknan/WebApp)
-
-</div>
-
-> **Note:** Replace `AI-Project` and `WebApp` with your actual repository names to showcase your best work!
-
----
 
 ## 🎯 Current Focus
 
