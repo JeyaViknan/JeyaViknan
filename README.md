@@ -1,33 +1,90 @@
-# Jeya Viknan
+<div align="center">
 
-Full Stack Developer · AI/ML · VIT Chennai
+```
+jeya viknan
+─────────────────────────────────────────
+full stack developer · ai/ml · vit chennai
+```
 
-[LinkedIn](https://www.linkedin.com/in/jeya-viknan/) · [GitHub](https://github.com/JeyaViknan) · [Email](mailto:jeyaviknan11@gmail.com) · [LeetCode](https://leetcode.com/u/JeyaViknan/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeya-viknan/)
+[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/JeyaViknan)
+[![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/JeyaViknan/)
+[![Mail](https://img.shields.io/badge/email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:jeyaviknan11@gmail.com)
 
----
-
-## Stack
-
-| | |
-|---|---|
-| **Languages** | Python · JS · TS · C++ · SQL |
-| **Frontend** | React · Next.js · TailwindCSS |
-| **Backend** | Node.js · Express · Flask |
-| **AI / ML** | TensorFlow · PyTorch · Scikit-learn |
-| **Cloud & DevOps** | AWS · Docker · Git |
-| **Databases** | MongoDB · SQL |
+</div>
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JeyaViknan&show_icons=true&hide_border=true&bg_color=00000000&title_color=111&icon_color=555&text_color=555&count_private=true&include_all_commits=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeyaViknan&hide_border=true&background=00000000&stroke=cccccc&ring=111&fire=555&currStreakLabel=111)
+```ts
+const jeya = {
+  role     : "Full Stack Developer",
+  school   : "VIT Chennai · B.Tech CSE",
+  focus    : ["AI/ML", "Web Dev", "Cloud"],
+  building : "impactful solutions, one commit at a time",
+};
+```
 
 ---
 
-## Education
+### languages
 
-**Vellore Institute of Technology, Chennai**
-B.Tech Computer Science Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### backend & data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### ai / ml
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### cloud & tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JeyaViknan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeyaViknan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyaViknan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="48%" />
+
+</div>
+
+---
+
+### contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeyaViknan/JeyaViknan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeyaViknan/JeyaViknan/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/JeyaViknan/JeyaViknan/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+<sub>vellore institute of technology · b.tech computer science engineering</sub>
+</div>
