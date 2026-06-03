@@ -38,7 +38,7 @@ const jeyaViknan = {
 
 | 💼 LinkedIn | 📧 Email | 🌐 Portfolio | 💻 GitHub |
 |:---:|:---:|:---:|:---:|
-| [Connect](https://www.linkedin.com/in/jeya-viknan/) | [Email Me](mailto:jeyaviknan11@gmail.com) | [Visit Site]([https://drive.google.com/file/d/14tSpSgNa43JhrUthbzVSGMaXcBkxPAct/view?usp=drive_link](https://drive.google.com/file/d/1h0M4gDnAb7ONofLrCaxShPNXvq43ftnP/view?usp=sharing)) | [@JeyaViknan](https://github.com/JeyaViknan) |
+| [Connect](https://www.linkedin.com/in/jeya-viknan/) | [Email Me](mailto:jeyaviknan11@gmail.com) | [Visit Site](https://drive.google.com/file/d/1h0M4gDnAb7ONofLrCaxShPNXvq43ftnP/view?usp=sharing) | [@JeyaViknan](https://github.com/JeyaViknan) |
 
 </div>
 
