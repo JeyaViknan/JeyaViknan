@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%7C+Innovator;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Researcher+%7C+Innovator;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,19 +15,20 @@
 ```typescript
 const jeyaViknan = {
     name: "Jeya Viknan",
-    location: "Chennai",
-    role: "Full Stack Developer",
+    location: "Chennai, India",
+    role: "AI Engineer & Researcher",
     education: "B.Tech CSE @ VIT Chennai",
-    specialization: ["AI/ML", "Web Development", "Cloud Computing"],
+    specialization: ["AI/ML", "RAG Systems", "Web Development", "Network Security"],
     technologies: {
-        languages: ["Python", "JavaScript", "TypeScript", "C++", "SQL"],
-        frontend: ["React", "Next.js", "TailwindCSS", "HTML/CSS"],
-        backend: ["Node.js", "Express", "Flask"],
-        aiml: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
-        cloud: ["AWS"],
+        languages: ["Python", "Java", "JavaScript", "TypeScript", "SQL"],
+        frontend: ["React.js", "HTML/CSS"],
+        backend: ["FastAPI", "Node.js", "Docker", "REST APIs"],
+        aiml: ["PyTorch", "TensorFlow", "Scikit-Learn", "HuggingFace", "RAG", "FAISS"],
+        databases: ["MongoDB", "PostgreSQL"],
         tools: ["Git", "Docker", "VS Code", "Postman"]
     },
-    interests: ["Machine Learning", "Web3", "Open Source"],
+    research: ["Website Fingerprinting (HC-WF)", "Sarcasm Detection", "NLP"],
+    currentFocus: "Building impactful AI systems & publishing research",
 };
 ```
 
@@ -43,125 +44,91 @@ const jeyaViknan = {
 
 ---
 
+## 💼 Experience
+
+### 🏢 Integra Global Solutions — AI Engineering Intern *(May 2025 – Jul 2025)*
+- Built an on-premise RAG system for accounting & BPO workflows using locally hosted open-source LLMs
+- Developed a semantic retrieval pipeline over 5K+ enterprise documents using FAISS, FastAPI & React.js
+- Applied LoRA-based domain adaptation & retrieval reranking, reducing manual document lookup time by **40%**
+
+### 🎓 NIT Trichy (Online) — AI Research Intern *(May 2025 – Jul 2025)*
+- Built a sarcasm detection pipeline using NLP preprocessing and Logistic Regression
+- Performed text cleaning, tokenization, feature extraction & model evaluation using Scikit-Learn
+- Experimented with hyperparameter tuning & feature engineering to improve classification performance
+
+---
+
+## 🔬 Research & Patents
+
+### 📄 HC-WF — Hierarchical Context-Aware Website Fingerprinting *(Ongoing)*
+- Proposed a Transformer-based framework for identifying websites over anonymous networks
+- Achieved **99.5% closed-world accuracy** and **93.2% open-world F1-score** under noisy conditions
+- Evaluated across 1000+ unmonitored websites and multi-tab traffic scenarios
+
+### 🏛️ Fog-Orchestrated Real-Time Guidance System for Intelligent Fire Evacuation *(Patent Filing in Progress)*
+- Designed a fog-computing based intelligent evacuation framework with adaptive real-time routing
+- Developed multi-path evacuation algorithms using hazard-aware graph traversal
+- Built a prototype using Arduino, Raspberry Pi, sensors & dynamic LED guidance systems
+
+---
+
+## 🚀 Projects
+
+### 🔐 Sorry-No-Proxy — Secure Attendance System
+- Designed a secure QR authentication system using hashed time-variant tokens to prevent replay attacks
+- Integrated facial verification for secure attendance tracking
+- Adopted by multiple faculty members; being evaluated as a college-wide replacement
+
+### 🤖 AutoRAG — Self-Healing Knowledge Assistant
+- Developed a modular RAG pipeline using FAISS, BM25 retrieval & reranking
+- Implemented hallucination detection using semantic similarity and NLI verification
+- Designed scalable semantic search infrastructure for large document collections
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🎨 Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🔧 Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏅 Leadership
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=JeyaViknan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeyaViknan&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" width="48%" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyaViknan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeyaViknan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" width="98%" />
-
-</div>
-
----
-
-## 🏆 Achievements & Stats
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=JeyaViknan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Stats
-
-![](https://github-contributor-stats.vercel.app/api?username=JeyaViknan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-while (learning) {
-    const skills = ["AI/ML", "Full Stack", "Cloud Computing"];
-    const goal = "Build impactful solutions";
-    
-    if (challenge.isHard()) {
-        learn();
-        practice();
-        innovate();
-    }
-    
-    return success;
-}
-```
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeya-viknan/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeyaViknan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/14tSpSgNa43JhrUthbzVSGMaXcBkxPAct/view?usp=drive_link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeyaviknan11@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JeyaViknan/)
-
-### 📫 Let's Collaborate!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-</div>
+**VITeach — Technical Head** *(Dec 2024 – Present)*  
+Led a 10+ member engineering team building scalable web platforms; architected backend infrastructure supporting **1000+ active users**
 
 ---
 
@@ -183,8 +150,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### 🎓 Education
 **Vellore Institute of Technology, Chennai**  
-Bachelor of Technology in Computer Science Engineering  
-Specialization: Computer Science
+Bachelor of Technology in Computer Science Engineering *(2023 – Expected May 2027)*  
+CGPA: 8.5/10
 
 </div>
 
