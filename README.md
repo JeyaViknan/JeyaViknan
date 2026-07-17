@@ -46,12 +46,12 @@ const jeyaViknan = {
 
 ## 💼 Experience
 
-### 🏢 Integra Global Solutions — AI Engineering Intern *(May 2025 – Jul 2025)*
+### 🏢 Integra Global Solutions — AI Engineering Intern *(May 2026 – Jul 2026)*
 - Built an on-premise RAG system for accounting & BPO workflows using locally hosted open-source LLMs
 - Developed a semantic retrieval pipeline over 5K+ enterprise documents using FAISS, FastAPI & React.js
 - Applied LoRA-based domain adaptation & retrieval reranking, reducing manual document lookup time by **40%**
 
-### 🎓 NIT Trichy (Online) — AI Research Intern *(May 2025 – Jul 2025)*
+### 🎓 NIT Trichy — AI Research Intern *(May 2025 – Jul 2025)*
 - Built a sarcasm detection pipeline using NLP preprocessing and Logistic Regression
 - Performed text cleaning, tokenization, feature extraction & model evaluation using Scikit-Learn
 - Experimented with hyperparameter tuning & feature engineering to improve classification performance
