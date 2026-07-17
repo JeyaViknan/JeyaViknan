@@ -72,20 +72,6 @@ const jeyaViknan = {
 
 ---
 
-## 🚀 Projects
-
-### 🔐 Sorry-No-Proxy — Secure Attendance System
-- Designed a secure QR authentication system using hashed time-variant tokens to prevent replay attacks
-- Integrated facial verification for secure attendance tracking
-- Adopted by multiple faculty members; being evaluated as a college-wide replacement
-
-### 🤖 AutoRAG — Self-Healing Knowledge Assistant
-- Developed a modular RAG pipeline using FAISS, BM25 retrieval & reranking
-- Implemented hallucination detection using semantic similarity and NLI verification
-- Designed scalable semantic search infrastructure for large document collections
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
