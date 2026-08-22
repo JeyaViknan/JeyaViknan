@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeyaViknan/JeyaViknan/main/assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeyaViknan/JeyaViknan/main/assets/header-light.svg">
-  <img alt="Jeya Viknan — Full-Stack Engineer, Applied AI" src="https://raw.githubusercontent.com/JeyaViknan/JeyaViknan/main/assets/header-light.svg" width="100%">
+  <img alt="Jeya Viknan — Software Engineer: automation, applied AI, retrieval, full-stack, testing" src="https://raw.githubusercontent.com/JeyaViknan/JeyaViknan/main/assets/header-light.svg" width="100%">
 </picture>
 
 <br>
@@ -14,7 +14,9 @@
 
 <br>
 
-I build transactional backends that hold their guarantees under concurrency, and retrieval systems that stay honest about what they don't know. Currently finishing a B.Tech in CS at VIT Chennai alongside a BS in Data Science at IIT Madras.
+I work across the whole path a system takes to production — the backend and the interface, the retrieval layer that makes it useful, the tests that prove it works, and the automation that ships it. The through-line is the same everywhere: build the thing, then build the evidence it holds.
+
+Currently finishing a B.Tech in CS at VIT Chennai alongside a BS in Data Science at IIT Madras.
 
 <br>
 
@@ -127,7 +129,7 @@ Evacuation routing computed at the fog layer, so guidance survives the loss of c
 | **Frontend** | React 19 · Vite · Tailwind CSS · HTML · CSS |
 | **Data & storage** | PostgreSQL · MySQL · MongoDB · Redis · Flyway · FAISS |
 | **AI & ML** | PyTorch · HuggingFace · scikit-learn · RAG · LoRA · semantic retrieval · reranking |
-| **Testing & quality** | JUnit 5 · MockMvc · Testcontainers · JaCoCo · PyTest · Postman |
+| **Testing & automation** | JUnit 5 · MockMvc · Testcontainers · JaCoCo · PyTest · Postman · CI pipelines · coverage gating |
 | **Infrastructure** | Docker · Kubernetes · AWS · GitHub Actions · Git · Linux · Maven |
 
 <br>
@@ -176,6 +178,6 @@ Lead a team of 10+ developers building platforms used by 1,000+ students. Introd
 
 <br><br>
 
-<sub>Open to full-stack, backend, SDET, and applied-AI roles.</sub>
+<sub>Open to software engineering roles — backend, full-stack, automation, SDET, and applied AI.</sub>
 
 </div>
