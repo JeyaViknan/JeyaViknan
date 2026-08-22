@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Jeya Viknan — Full-Stack Engineer, Applied AI">
+  <rect width="1200" height="320" fill="#fbfbfd"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="118" font-size="13" font-weight="600" letter-spacing="4.5" fill="#86868b">SOFTWARE · SYSTEMS · RESEARCH</text>
+    <text x="600" y="200" font-size="82" font-weight="600" letter-spacing="-2.5" fill="#1d1d1f">Jeya Viknan</text>
+    <text x="600" y="248" font-size="24" font-weight="400" letter-spacing="0.2" fill="#6e6e73">Full-Stack Engineer, Applied AI.</text>
+  </g>
+  <line x1="560" y1="284" x2="640" y2="284" stroke="#d2d2d7" stroke-width="1"/>
+</svg>
