@@ -28,7 +28,7 @@ Currently finishing a B.Tech in CS at VIT Chennai alongside a BS in Data Science
 
 <br>
 
-### LedgerLite
+### Penny
 
 **A ledger that refuses to lose money.**
 
